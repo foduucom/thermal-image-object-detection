@@ -1,5 +1,5 @@
 # thermal-image-object-detection
-1[](https://github.com/foduucom/thermal-image-object-detection/blob/main/image.jpg)
+![](https://github.com/foduucom/thermal-image-object-detection/blob/main/image.jpg)
 ## Summary
 The YOLOv8 object Detection model is an obYOLOv8s Table Detectionject detection model based on the YOLO (You Only Look Once) framework. It is designed to thermal image detect object, whether they are thermal object detect, in images. The model has been fine-tuned on a vast dataset and achieved high accuracy in detecting tables and distinguishing between thermal object detect ones.
 
